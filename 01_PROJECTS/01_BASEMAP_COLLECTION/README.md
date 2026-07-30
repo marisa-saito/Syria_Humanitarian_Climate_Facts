@@ -14,16 +14,16 @@ This collection was created as a mapping foundation for visualising vector and r
 
 | No. | Interactive map | Jupyter Notebook | Basemap | Main use |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_White_basemap.ipynb) | CARTO Light — No Labels | White background for overlaying thematic layers |
-| 02 | [View map](PUBLIC_URL) | [Notebook](02_Syria_Dark_basemap.ipynb) | CARTO Dark — No Labels | Dark background for displaying bright layers |
-| 03 | [View map](PUBLIC_URL) | [Notebook](03_Syria_Satellite_basemap.ipynb) | Esri World Imagery | Satellite imagery for examining surface conditions |
-| 04 | [View map](PUBLIC_URL) | [Notebook](04_Syria_Physical_basemap.ipynb) | Esri World Terrain | Terrain map for examining topography |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/01_syria_white_basemap.html) | [Notebook](01_Syria_White_basemap.ipynb) | CARTO Light — No Labels | White background for overlaying thematic layers |
+| 02 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/02_syria_dark_basemap.html) | [Notebook](02_Syria_Dark_basemap.ipynb) | CARTO Dark — No Labels | Dark background for displaying bright layers |
+| 03 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/03_syria_satellite_basemap.html) | [Notebook](03_Syria_Satellite_basemap.ipynb) | Esri World Imagery | Satellite imagery for examining surface conditions |
+| 04 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/04_syria_physical_basemap.html) | [Notebook](04_Syria_Physical_basemap.ipynb) | Esri World Terrain | Terrain map for examining topography |
 
 ## 01 — White Basemap
 
 This map uses label-free CARTO Light as its background and adds administrative boundaries and names of neighbouring countries through project-level overlays. The white background is suitable for making thematic data visually prominent.
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/01_syria_white_basemap.html)
 
 ![Syria White Basemap](images/01_syria_white_basemap.png)
 
@@ -31,7 +31,7 @@ This map uses label-free CARTO Light as its background and adds administrative b
 
 This map uses label-free CARTO Dark as its background and adds light-coloured administrative boundaries and names of neighbouring countries through project-level overlays. The dark background is suitable for displaying population rasters, proportional symbols and other data that require strong contrast.
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/02_syria_dark_basemap.html)
 
 ![Syria Dark Basemap](images/02_syria_dark_basemap.png)
 
@@ -39,7 +39,7 @@ This map uses label-free CARTO Dark as its background and adds light-coloured ad
 
 This map uses Esri World Imagery as its background and adds administrative boundaries and names of neighbouring countries through project-level overlays. The satellite imagery makes it possible to examine land cover and surface conditions in relation to administrative divisions.
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/03_syria_satellite_basemap.html)
 
 ![Syria Satellite Basemap](images/03_syria_satellite_basemap.png)
 
@@ -47,7 +47,7 @@ This map uses Esri World Imagery as its background and adds administrative bound
 
 This map uses Esri World Terrain as its background and adds administrative boundaries and names of neighbouring countries through project-level overlays. The terrain map provides a mapping foundation for examining elevation, terrain relief and regional location.
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/01_BASEMAP_COLLECTION/04_syria_physical_basemap.html)
 
 ![Syria Physical Basemap](images/04_syria_physical_basemap.png)
 

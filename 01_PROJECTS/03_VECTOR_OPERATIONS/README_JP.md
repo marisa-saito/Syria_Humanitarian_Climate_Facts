@@ -15,10 +15,10 @@
 
 | No. | インタラクティブ地図 | Jupyter Notebook | 分析手法 | 分析対象 |
 |---:|---|---|---|---|
-| 01 | [地図を表示](公開URL) | [Notebook](01_Syria_Vector_Buffer.ipynb) | 再投影と 10 km バッファ | シリアの河川 |
-| 02 | [地図を表示](公開URL) | [Notebook](02_Syria_Vector_Dissolve.ipynb) | 属性集約と Dissolve | 14 県を分類した独自 4 地域 |
-| 03 | [地図を表示](公開URL) | [Notebook](03_Syria_Vector_SpatialJoin.ipynb) | Point-in-Polygon Spatial Join | 348 行政地点 |
-| 04 | [地図を表示](公開URL) | [Notebook](04_Syria_Vector_CRS_Alignment.ipynb) | 再投影と CRS 統一 | 河川および水域 |
+| 01 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html) | [Notebook](01_Syria_Vector_Buffer.ipynb) | 再投影と 10 km バッファ | シリアの河川 |
+| 02 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html) | [Notebook](02_Syria_Vector_Dissolve.ipynb) | 属性集約と Dissolve | 14 県を分類した独自 4 地域 |
+| 03 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html) | [Notebook](03_Syria_Vector_SpatialJoin.ipynb) | Point-in-Polygon Spatial Join | 348 行政地点 |
+| 04 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html) | [Notebook](04_Syria_Vector_CRS_Alignment.ipynb) | 再投影と CRS 統一 | 河川および水域 |
 
 ## 01 — シリア河川 10 km バッファマップ
 
@@ -38,7 +38,7 @@
 
 - `outputs/syr_river_buffer_10km.gpkg`
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html)
 
 ## 02 — シリア県境独自分析地域 Dissolve マップ
 
@@ -59,7 +59,7 @@
 
 - `syr_custom_analytical_regions.gpkg`
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html)
 
 ## 03 — シリア行政地点 Spatial Join マップ
 
@@ -77,7 +77,7 @@
 - 行政界、ラベル、凡例、情報パネル、レイヤー切り替え機能の追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html)
 
 ## 04 — シリア水域データ CRS 統一マップ
 
@@ -95,7 +95,7 @@
 - 水域、行政界、ラベル、凡例、情報パネル、レイヤー切り替え機能の追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html)
 
 ## 共通仕様
 

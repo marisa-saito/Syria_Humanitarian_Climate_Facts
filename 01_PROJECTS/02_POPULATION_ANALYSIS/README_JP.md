@@ -15,10 +15,10 @@
 
 | No. | インタラクティブ地図 | Jupyter Notebook | 分析手法 | 分析対象 |
 |---:|---|---|---|---|
-| 01 | [地図を表示](公開URL) | [Notebook](01_Syria_Population_Distribution_Map.ipynb) | ダウンサンプリングとラスタ可視化 | シリア全土 |
-| 02 | [地図を表示](公開URL) | [Notebook](02_Syria_WindowedReading.ipynb) | ウィンドウ読み込み | 主にシリア北西部 |
-| 03 | [地図を表示](公開URL) | [Notebook](03_Syria_NW3_ZonalStatistics.ipynb) | ゾーン統計と比例円表示 | Aleppo、Idleb、Lattakia の 3 県 |
-| 04 | [地図を表示](公開URL) | [Notebook](04_Syria_Idleb_Mask.ipynb) | ラスタマスク処理 | Idleb 県 |
+| 01 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html) | [Notebook](01_Syria_Population_Distribution_Map.ipynb) | ダウンサンプリングとラスタ可視化 | シリア全土 |
+| 02 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html) | [Notebook](02_Syria_WindowedReading.ipynb) | ウィンドウ読み込み | 主にシリア北西部 |
+| 03 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html) | [Notebook](03_Syria_NW3_ZonalStatistics.ipynb) | ゾーン統計と比例円表示 | Aleppo、Idleb、Lattakia の 3 県 |
+| 04 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html) | [Notebook](04_Syria_Idleb_Mask.ipynb) | ラスタマスク処理 | Idleb 県 |
 
 ## 01 — シリア人口分布マップ
 
@@ -32,7 +32,7 @@ WorldPop 2026 の人口ラスタを使用し、シリア全土の推計人口分
 - 行政界、県名、カラー凡例、情報パネルの追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html)
 
 ## 02 — シリア人口ウィンドウ読み込みマップ
 
@@ -47,7 +47,7 @@ WorldPop 2026 の人口ラスタを使用し、元ラスタ全体を読み込ま
 - 行政界、ラベル、カラー凡例、情報パネルの追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html)
 
 ## 03 — シリア北西部 3 県人口ゾーン統計マップ
 
@@ -63,7 +63,7 @@ WorldPop 2026 の人口ラスタを使用し、Aleppo、Idleb、Lattakia の 3 �
 - 面積比例円、数値付き凡例、情報パネルの追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html)
 
 ## 04 — Idleb 県人口ラスタマスク処理マップ
 
@@ -84,7 +84,7 @@ WorldPop 2026 の人口ラスタを使用し、シリア全国の人口ラスタ
 
 - `outputs/worldpop_idleb_2026.tif`
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html)
 
 ## 共通仕様
 

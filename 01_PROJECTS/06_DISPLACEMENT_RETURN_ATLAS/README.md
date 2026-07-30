@@ -17,8 +17,8 @@ The IOM data contains population indicators by reported location but does not in
 
 | No. | Interactive map | Jupyter Notebook | Display language | Analysis |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_Displacement_and_Return_Atlas.ipynb) | English | IOM–HOTOSM location matching with displacement and return indicators |
-| 02 | [View map](PUBLIC_URL) | [Notebook](02_Syria_Displacement_and_Return_Atlas_JP.ipynb) | Japanese | IOM–HOTOSM location matching with displacement and return indicators |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_syria_displacement_and_return_atlas.html) | [Notebook](01_Syria_Displacement_and_Return_Atlas.ipynb) | English | IOM–HOTOSM location matching with displacement and return indicators |
+| 02 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_syria_displacement_and_return_atlas_jp.html) | [Notebook](02_Syria_Displacement_and_Return_Atlas_JP.ipynb) | Japanese | IOM–HOTOSM location matching with displacement and return indicators |
 
 ## Data Integration and Location Matching
 
@@ -41,9 +41,9 @@ Main processes:
 - Save the audit CSV and validated GeoPackage
 - Display five population indicators using a shared proportional-circle scale
 
-[View English interactive map](PUBLIC_URL)
+[View English interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_syria_displacement_and_return_atlas.html)
 
-[View Japanese interactive map](PUBLIC_URL)
+[View Japanese interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_syria_displacement_and_return_atlas_jp.html)
 
 ## Matching Results
 

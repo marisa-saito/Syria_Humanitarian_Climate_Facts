@@ -15,10 +15,10 @@ This collection implements a sequence of vector analysis methods for distance an
 
 | No. | Interactive map | Jupyter Notebook | Analysis method | Analysis area |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_Vector_Buffer.ipynb) | Reprojection and 10 km buffering | Rivers in Syria |
-| 02 | [View map](PUBLIC_URL) | [Notebook](02_Syria_Vector_Dissolve.ipynb) | Attribute aggregation and dissolve | Four custom regions created from 14 governorates |
-| 03 | [View map](PUBLIC_URL) | [Notebook](03_Syria_Vector_SpatialJoin.ipynb) | Point-in-polygon spatial join | 348 administrative points |
-| 04 | [View map](PUBLIC_URL) | [Notebook](04_Syria_Vector_CRS_Alignment.ipynb) | Reprojection and CRS alignment | Rivers and water bodies |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html) | [Notebook](01_Syria_Vector_Buffer.ipynb) | Reprojection and 10 km buffering | Rivers in Syria |
+| 02 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html) | [Notebook](02_Syria_Vector_Dissolve.ipynb) | Attribute aggregation and dissolve | Four custom regions created from 14 governorates |
+| 03 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html) | [Notebook](03_Syria_Vector_SpatialJoin.ipynb) | Point-in-polygon spatial join | 348 administrative points |
+| 04 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html) | [Notebook](04_Syria_Vector_CRS_Alignment.ipynb) | Reprojection and CRS alignment | Rivers and water bodies |
 
 ## 01 — Syria 10 km River Buffer Map
 
@@ -38,7 +38,7 @@ Derived data:
 
 - `outputs/syr_river_buffer_10km.gpkg`
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html)
 
 ## 02 — Syria Governorate Dissolve Map by Custom Analytical Region
 
@@ -59,7 +59,7 @@ Derived data:
 
 - `syr_custom_analytical_regions.gpkg`
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html)
 
 ## 03 — Syria Administrative Point Spatial Join Map
 
@@ -77,7 +77,7 @@ Main processes:
 - Add administrative boundaries, labels, a legend, information panels and layer controls
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html)
 
 ## 04 — Syria River and Water-Body CRS Alignment Map
 
@@ -95,7 +95,7 @@ Main processes:
 - Add the river, water-body, administrative boundary, label, legend, information panel and layer-control elements
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html)
 
 ## Shared Specifications
 

@@ -16,7 +16,7 @@
 
 | No. | インタラクティブ地図 | Jupyter Notebook | 分析手法 | 分析対象 |
 |---:|---|---|---|---|
-| 01 | [地図を表示](公開URL) | [Notebook](01_Syria_EuphratesFloodEvents_Map.ipynb) | CSV 検証と Point-in-Polygon Spatial Join | ユーフラテス川流域の報告地点（現在 6 地点） |
+| 01 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html) | [Notebook](01_Syria_EuphratesFloodEvents_Map.ipynb) | CSV 検証と Point-in-Polygon Spatial Join | ユーフラテス川流域の報告地点（現在 6 地点） |
 
 ## 01 — ユーフラテス川流域洪水被害報告地点マップ
 
@@ -42,7 +42,7 @@
 
 - `outputs/euphrates_flood_affected_locations_validated.gpkg`
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html)
 
 ## 実装仕様
 

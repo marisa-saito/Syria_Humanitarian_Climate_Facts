@@ -16,7 +16,7 @@ The current dataset contains six reported locations associated with one flood ev
 
 | No. | Interactive map | Jupyter Notebook | Analysis method | Analysis area |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_EuphratesFloodEvents_Map.ipynb) | CSV validation and point-in-polygon spatial join | Reported locations along the Euphrates corridor (currently six) |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html) | [Notebook](01_Syria_EuphratesFloodEvents_Map.ipynb) | CSV validation and point-in-polygon spatial join | Reported locations along the Euphrates corridor (currently six) |
 
 ## 01 — Reported Flood-Affected Locations Along the Euphrates
 
@@ -42,7 +42,7 @@ Derived data:
 
 - `outputs/euphrates_flood_affected_locations_validated.gpkg`
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html)
 
 ## Implementation Specifications
 

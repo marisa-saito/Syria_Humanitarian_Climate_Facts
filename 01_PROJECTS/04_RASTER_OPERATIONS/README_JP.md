@@ -16,8 +16,8 @@
 
 | No. | インタラクティブ地図 | Jupyter Notebook | 分析手法 | 処理内容 |
 |---:|---|---|---|---|
-| 01 | [地図を表示](公開URL) | [Notebook](01_Syria_Raster_Resample.ipynb) | 合計リサンプリングによる集約 | 約 100 m から約 1 km |
-| 02 | [地図を表示](公開URL) | [Notebook](02_Syria_Raster_Reprojection.ipynb) | 合計リサンプリングによる再投影 | EPSG:4326 から EPSG:3857 |
+| 01 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html) | [Notebook](01_Syria_Raster_Resample.ipynb) | 合計リサンプリングによる集約 | 約 100 m から約 1 km |
+| 02 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html) | [Notebook](02_Syria_Raster_Reprojection.ipynb) | 合計リサンプリングによる再投影 | EPSG:4326 から EPSG:3857 |
 
 ## 01 — シリア人口ラスタ約 1 km 集約マップ
 
@@ -35,7 +35,7 @@ WorldPop 2026 の人口ラスタを使用し、約 100 m の元解像度から�
 - 行政界、凡例、情報パネルの追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html)
 
 ## 02 — シリア人口ラスタ Web Mercator 再投影マップ
 
@@ -53,7 +53,7 @@ WorldPop 2026 の人口ラスタを使用し、WGS 84（EPSG:4326）から Web M
 - 行政界、凡例、情報パネルの追加
 - インタラクティブ HTML の出力
 
-[インタラクティブ地図を表示](公開URL)
+[インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html)
 
 ## 共通仕様
 

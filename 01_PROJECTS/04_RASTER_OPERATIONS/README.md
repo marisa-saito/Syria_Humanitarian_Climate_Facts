@@ -16,8 +16,8 @@ This collection implements a sequence of raster analysis methods for sum resampl
 
 | No. | Interactive map | Jupyter Notebook | Analysis method | Processing change |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_Raster_Resample.ipynb) | Aggregation with sum resampling | Approximately 100 m to approximately 1 km |
-| 02 | [View map](PUBLIC_URL) | [Notebook](02_Syria_Raster_Reprojection.ipynb) | Reprojection with sum resampling | EPSG:4326 to EPSG:3857 |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html) | [Notebook](01_Syria_Raster_Resample.ipynb) | Aggregation with sum resampling | Approximately 100 m to approximately 1 km |
+| 02 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html) | [Notebook](02_Syria_Raster_Reprojection.ipynb) | Reprojection with sum resampling | EPSG:4326 to EPSG:3857 |
 
 ## 01 — Syria Population Raster Aggregation Map at Approximately 1 km
 
@@ -35,7 +35,7 @@ Main processes:
 - Add administrative boundaries, a legend and an information panel
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html)
 
 ## 02 — Syria Population Raster Reprojection Map to Web Mercator
 
@@ -53,7 +53,7 @@ Main processes:
 - Add administrative boundaries, a legend and an information panel
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html)
 
 ## Shared Specifications
 

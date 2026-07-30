@@ -15,10 +15,10 @@ This collection implements a sequence of spatial analysis methods for reading, p
 
 | No. | Interactive map | Jupyter Notebook | Analysis method | Analysis area |
 |---:|---|---|---|---|
-| 01 | [View map](PUBLIC_URL) | [Notebook](01_Syria_Population_Distribution_Map.ipynb) | Downsampling and raster visualisation | All of Syria |
-| 02 | [View map](PUBLIC_URL) | [Notebook](02_Syria_WindowedReading.ipynb) | Windowed reading | Mainly northwestern Syria |
-| 03 | [View map](PUBLIC_URL) | [Notebook](03_Syria_NW3_ZonalStatistics.ipynb) | Zonal statistics and proportional circles | Aleppo, Idleb and Lattakia governorates |
-| 04 | [View map](PUBLIC_URL) | [Notebook](04_Syria_Idleb_Mask.ipynb) | Raster masking | Idleb Governorate |
+| 01 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html) | [Notebook](01_Syria_Population_Distribution_Map.ipynb) | Downsampling and raster visualisation | All of Syria |
+| 02 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html) | [Notebook](02_Syria_WindowedReading.ipynb) | Windowed reading | Mainly northwestern Syria |
+| 03 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html) | [Notebook](03_Syria_NW3_ZonalStatistics.ipynb) | Zonal statistics and proportional circles | Aleppo, Idleb and Lattakia governorates |
+| 04 | [View map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html) | [Notebook](04_Syria_Idleb_Mask.ipynb) | Raster masking | Idleb Governorate |
 
 ## 01 — Syria Population Distribution Map
 
@@ -32,7 +32,7 @@ Main processes:
 - Add administrative boundaries, governorate labels, a colour legend and an information panel
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html)
 
 ## 02 — Syria Population Windowed Reading Map
 
@@ -47,7 +47,7 @@ Main processes:
 - Add administrative boundaries, labels, a colour legend and an information panel
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html)
 
 ## 03 — Northwestern Syria Three-Governorate Population Zonal Statistics Map
 
@@ -63,7 +63,7 @@ Main processes:
 - Add area-proportional circles, a numeric legend and an information panel
 - Export the interactive HTML file
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html)
 
 ## 04 — Idleb Governorate Population Raster Masking Map
 
@@ -84,7 +84,7 @@ Derived raster:
 
 - `outputs/worldpop_idleb_2026.tif`
 
-[View interactive map](PUBLIC_URL)
+[View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html)
 
 ## Shared Specifications
 

@@ -17,8 +17,8 @@ IOM データには地点別の人口指標がありますが、地点ジオメ�
 
 | No. | インタラクティブ地図 | Jupyter Notebook | 表示言語 | 分析内容 |
 |---:|---|---|---|---|
-| 01 | [地図を表示](公開URL) | [Notebook](01_Syria_Displacement_and_Return_Atlas.ipynb) | 英語 | IOM・HOTOSM 地点照合と避難・帰還指標 |
-| 02 | [地図を表示](公開URL) | [Notebook](02_Syria_Displacement_and_Return_Atlas_JP.ipynb) | 日本語 | IOM・HOTOSM 地点照合と避難・帰還指標 |
+| 01 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_syria_displacement_and_return_atlas.html) | [Notebook](01_Syria_Displacement_and_Return_Atlas.ipynb) | 英語 | IOM・HOTOSM 地点照合と避難・帰還指標 |
+| 02 | [地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_syria_displacement_and_return_atlas_jp.html) | [Notebook](02_Syria_Displacement_and_Return_Atlas_JP.ipynb) | 日本語 | IOM・HOTOSM 地点照合と避難・帰還指標 |
 
 ## データ統合と地点照合
 
@@ -41,9 +41,9 @@ IOM の避難・帰還データを使用し、地点ジオメトリを持つ HOT
 - 監査 CSV と検証済み GeoPackage の保存
 - 5 種類の人口指標を共通の比例円スケールで表示
 
-[英語版インタラクティブ地図を表示](公開URL)
+[英語版インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_syria_displacement_and_return_atlas.html)
 
-[日本語版インタラクティブ地図を表示](公開URL)
+[日本語版インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_syria_displacement_and_return_atlas_jp.html)
 
 ## 照合結果
 
