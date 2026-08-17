@@ -40,6 +40,8 @@ Derived data:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html)
 
+![Syria 10 km River Buffer Map](images/01_syria_vector_buffer.png)
+
 ## 02 — Syria Governorate Dissolve Map by Custom Analytical Region
 
 This analysis uses vector data for Syria to classify the 14 governorates into four custom analytical regions and dissolve the internal governorate boundaries within each region. The dissolved regions retain the names, Pcodes and number of their constituent governorates, and their areas are calculated in a projected coordinate system.
@@ -61,6 +63,8 @@ Derived data:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html)
 
+![Syria Governorate Dissolve Map by Custom Analytical Region](images/02_syria_vector_dissolve.png)
+
 ## 03 — Syria Administrative Point Spatial Join Map
 
 This analysis uses vector data for Syria to assign governorate attributes to administrative points through a point-in-polygon spatial join. A left join using the `within` predicate is applied to 348 points after excluding the national-level reference point, and the results are checked for unmatched points, points assigned to multiple governorates and consistency with the source governorate attributes.
@@ -79,6 +83,8 @@ Main processes:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html)
 
+![Syria Administrative Point Spatial Join Map](images/03_syria_vector_spatial_join.png)
+
 ## 04 — Syria River and Water-Body CRS Alignment Map
 
 This analysis uses vector data for Syria to align river and water-body datasets that originally use different coordinate reference systems. The river data is reprojected from Web Mercator (EPSG:3857) to WGS 84 (EPSG:4326), the full-resolution datasets are saved in a GeoPackage, and simplified copies are displayed on an interactive map.
@@ -96,6 +102,8 @@ Main processes:
 - Export the interactive HTML file
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html)
+
+![Syria River and Water-Body CRS Alignment Map](images/04_syria_vector_crs_alignment.png)
 
 ## Shared Specifications
 

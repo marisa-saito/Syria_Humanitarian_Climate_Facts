@@ -40,6 +40,8 @@
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/01_syria_vector_buffer.html)
 
+![Syria 10 km River Buffer Map](images/01_syria_vector_buffer.png)
+
 ## 02 — シリア県境独自分析地域 Dissolve マップ
 
 シリアのベクターデータを使用し、14 県を 4 つの独自分析地域へ分類して、各地域内部の県境を Dissolve します。Dissolve 後の地域には、構成する県の名称、Pcode、県数を保持し、投影座標系を用いて各地域の面積を計算します。
@@ -61,6 +63,8 @@
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/02_syria_vector_dissolve.html)
 
+![Syria Governorate Dissolve Map by Custom Analytical Region](images/02_syria_vector_dissolve.png)
+
 ## 03 — シリア行政地点 Spatial Join マップ
 
 シリアのベクターデータを使用し、Point-in-Polygon Spatial Join によって行政地点へ所属県の属性を付与します。国レベルの代表地点を除外した 348 地点を対象に、`within` を空間述語とする左結合を実行し、未結合地点、複数の県に結合された地点、元データの県属性との一致を検証します。
@@ -79,6 +83,8 @@
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/03_syria_vector_spatial_join.html)
 
+![Syria Administrative Point Spatial Join Map](images/03_syria_vector_spatial_join.png)
+
 ## 04 — シリア水域データ CRS 統一マップ
 
 シリアのベクターデータを使用し、異なる座標参照系を持つ河川データと水域データを同じ座標参照系へ統一します。河川データを Web Mercator（EPSG:3857）から WGS 84（EPSG:4326）へ再投影し、全解像度データを GeoPackage へ保存して、軽量化したコピーをインタラクティブ地図上へ表示します。
@@ -96,6 +102,8 @@
 - インタラクティブ HTML の出力
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/03_VECTOR_OPERATIONS/04_syria_vector_crs_alignment.html)
+
+![Syria River and Water-Body CRS Alignment Map](images/04_syria_vector_crs_alignment.png)
 
 ## 共通仕様
 
