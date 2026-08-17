@@ -34,6 +34,8 @@ WorldPop 2026 の人口ラスタを使用し、シリア全土の推計人口分
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html)
 
+![Syria Population Distribution Map](images/01_syria_population_distribution_map.png)
+
 ## 02 — シリア人口ウィンドウ読み込みマップ
 
 WorldPop 2026 の人口ラスタを使用し、元ラスタ全体を読み込まず、左上から 3,000 × 3,000 ピクセルの範囲をウィンドウ読み込みします。選択した範囲は主にシリア北西部を対象としており、元ラスタのグリッドセルごとの推計人口を、行政界およびラベルとともに白色ベースマップ上へ表示します。
@@ -48,6 +50,8 @@ WorldPop 2026 の人口ラスタを使用し、元ラスタ全体を読み込ま
 - インタラクティブ HTML の出力
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html)
+
+![Syria Population Windowed Reading Map](images/02_syria_windowed_reading.png)
 
 ## 03 — シリア北西部 3 県人口ゾーン統計マップ
 
@@ -64,6 +68,8 @@ WorldPop 2026 の人口ラスタを使用し、Aleppo、Idleb、Lattakia の 3 �
 - インタラクティブ HTML の出力
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html)
+
+![Northwestern Syria Three-Governorate Population Zonal Statistics Map](images/03_syria_nw3_zonal_statistics.png)
 
 ## 04 — Idleb 県人口ラスタマスク処理マップ
 
@@ -85,6 +91,8 @@ WorldPop 2026 の人口ラスタを使用し、シリア全国の人口ラスタ
 - `outputs/worldpop_idleb_2026.tif`
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html)
+
+![Idleb Governorate Population Raster Masking Map](images/04_syria_idleb_mask.png)
 
 ## 共通仕様
 

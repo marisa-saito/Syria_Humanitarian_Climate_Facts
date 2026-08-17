@@ -34,6 +34,8 @@ Main processes:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/01_syria_population_distribution_map.html)
 
+![Syria Population Distribution Map](images/01_syria_population_distribution_map.png)
+
 ## 02 — Syria Population Windowed Reading Map
 
 This analysis uses the WorldPop 2026 population raster to read a 3,000 × 3,000 pixel window from the upper-left section without loading the complete raster. The selected window mainly covers northwestern Syria and displays estimated population per source grid cell on a white basemap with administrative boundaries and labels.
@@ -48,6 +50,8 @@ Main processes:
 - Export the interactive HTML file
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/02_syria_windowed_reading.html)
+
+![Syria Population Windowed Reading Map](images/02_syria_windowed_reading.png)
 
 ## 03 — Northwestern Syria Three-Governorate Population Zonal Statistics Map
 
@@ -64,6 +68,8 @@ Main processes:
 - Export the interactive HTML file
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/03_syria_zonal_statistics.html)
+
+![Northwestern Syria Three-Governorate Population Zonal Statistics Map](images/03_syria_nw3_zonal_statistics.png)
 
 ## 04 — Idleb Governorate Population Raster Masking Map
 
@@ -85,6 +91,8 @@ Derived raster:
 - `outputs/worldpop_idleb_2026.tif`
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/02_POPULATION_ANALYSIS/04_syria_idleb_mask.html)
+
+![Idleb Governorate Population Raster Masking Map](images/04_syria_idleb_mask.png)
 
 ## Shared Specifications
 
