@@ -1,5 +1,10 @@
 # シリア避難・帰還アトラス
 
+<p align="center">
+  <img src="images/02_syria_displacement_and_return_atlas_jp_idps.png" width="49%" />
+  <img src="images/02_syria_displacement_and_return_atlas_jp_returnees.png" width="49%" />
+</p>
+
 ## 概要
 
 このフォルダには、IOM (International Organization for Migration)の 2026 年避難・帰還ベースラインデータと HOTOSM (Humanitarian OpenStreetMap Team) の集落ポイントを統合した、シリア避難・帰還アトラスの英語版と日本語版を収録しています。

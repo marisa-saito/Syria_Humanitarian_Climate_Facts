@@ -1,5 +1,10 @@
 # Syria Displacement and Return Atlas
 
+<p align="center">
+  <img src="images/01_syria_displacement_and_return_atlas_en_idps.png" width="49%" />
+  <img src="images/01_syria_displacement_and_return_atlas_en_returnees.png" width="49%" />
+</p>
+
 ## Overview
 
 This folder contains English and Japanese versions of the Syria Displacement and Return Atlas, which integrates the 2026 displacement and return baseline data from the International Organization for Migration (IOM) with populated-place points from the Humanitarian OpenStreetMap Team (HOTOSM).
