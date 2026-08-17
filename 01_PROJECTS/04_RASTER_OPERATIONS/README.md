@@ -37,6 +37,8 @@ Main processes:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html)
 
+![Syria Population Raster Aggregation Map at Approximately 1 km](images/01_syria_raster_resample.png)
+
 ## 02 — Syria Population Raster Reprojection Map to Web Mercator
 
 This analysis uses the WorldPop 2026 population raster to reproject the data from WGS 84 (EPSG:4326) to Web Mercator (EPSG:3857). Sum resampling is used to retain the estimated population represented by the contributing source cells, and the results are validated by comparing population totals before and after processing.
@@ -54,6 +56,8 @@ Main processes:
 - Export the interactive HTML file
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html)
+
+![Syria Population Raster Reprojection Map to Web Mercator](images/02_syria_raster_reprojection.png)
 
 ## Shared Specifications
 

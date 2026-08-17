@@ -44,6 +44,8 @@
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html)
 
+![ユーフラテス川流域洪水被害報告地点マップ](images/01_syria_euphrates_flood_events_map.png)
+
 ## 実装仕様
 
 - 更新可能な CSV を入力データとして使用

@@ -44,6 +44,8 @@ Derived data:
 
 [View interactive map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/05_CLIMATE_HAZARD_MAPPING/01_syria_euphrates_flood_affected_locations.html)
 
+![Reported Flood-Affected Locations Along the Euphrates](images/01_syria_euphrates_flood_events_map.png)
+
 ## Implementation Specifications
 
 - Updatable CSV used as the input dataset

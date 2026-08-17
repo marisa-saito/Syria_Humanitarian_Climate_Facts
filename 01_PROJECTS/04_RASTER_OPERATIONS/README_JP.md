@@ -37,6 +37,8 @@ WorldPop 2026 の人口ラスタを使用し、約 100 m の元解像度から�
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/01_syria_raster_resample.html)
 
+![Syria Population Raster Aggregation Map at Approximately 1 km](images/01_syria_raster_resample.png)
+
 ## 02 — シリア人口ラスタ Web Mercator 再投影マップ
 
 WorldPop 2026 の人口ラスタを使用し、WGS 84（EPSG:4326）から Web Mercator（EPSG:3857）へ再投影します。対応する元セルの推計人口を保持するため、合計リサンプリングを使用し、処理前後の人口合計を比較して結果を検証します。
@@ -54,6 +56,8 @@ WorldPop 2026 の人口ラスタを使用し、WGS 84（EPSG:4326）から Web M
 - インタラクティブ HTML の出力
 
 [インタラクティブ地図を表示](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/04_RASTER_OPERATIONS/02_syria_raster_reprojection.html)
+
+![Syria Population Raster Reprojection Map to Web Mercator](images/02_syria_raster_reprojection.png)
 
 ## 共通仕様
 
