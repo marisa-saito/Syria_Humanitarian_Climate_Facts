@@ -2,6 +2,15 @@
 
 [English](README.md)
 
+<p align="center">
+  <img src="01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/images/02_syria_displacement_and_return_atlas_jp_idps.png" width="49%" />
+  <img src="01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/images/02_syria_displacement_and_return_atlas_jp_returnees.png" width="49%" />
+</p>
+
+**[地図を見る](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_syria_displacement_and_return_atlas_jp.html)** | **[Notebookを見る](01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/02_Syria_Displacement_and_Return_Atlas_JP.ipynb)**
+
+座標を持たないIOMの避難・帰還データ8,394件を、ADM3行政区域内でHOTOSMの集落データとファジーマッチングにより照合し、2,455地点(完全一致1,260件、高信頼一致1,195件)を検証・地図化。入力検証、CRS/ジオメトリチェック、品質管理された出力までを含む、再現可能で監査可能なパイプラインを構築。シリアの人道支援NPOでの助成金申請・団体報告に活用。
+
 ## 概要
 
 このリポジトリには、シリアの人道支援、人口、気候災害、避難・帰還を対象とした Python・GIS ポートフォリオを収録しています。6 つのコレクションと 17 の Jupyter Notebook を通して、ベースマップ設計、人口ラスタ分析、ベクター解析、ラスタ処理、更新可能な災害データの検証、異種データの地点照合を実装しています。

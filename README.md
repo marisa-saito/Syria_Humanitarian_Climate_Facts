@@ -2,6 +2,15 @@
 
 [日本語](README_JP.md)
 
+<p align="center">
+  <img src="01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/images/01_syria_displacement_and_return_atlas_en_idps.png" width="49%" />
+  <img src="01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/images/01_syria_displacement_and_return_atlas_en_returnees.png" width="49%" />
+</p>
+
+**[View Live Map](https://marisa-saito.github.io/Syria_Humanitarian_Climate_Facts/01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_syria_displacement_and_return_atlas.html)** | **[View Notebook](01_PROJECTS/06_DISPLACEMENT_RETURN_ATLAS/01_Syria_Displacement_and_Return_Atlas.ipynb)**
+
+Matched 8,394 IOM displacement and return records (no coordinates) against HOTOSM settlement points using fuzzy name matching within ADM3 boundaries, validating 2,455 locations (1,260 exact, 1,195 high-confidence matches). Built a reproducible, auditable pipeline covering input validation, CRS/geometry checks, and quality-controlled outputs. Applied to grant proposals and organisational reporting for a Syria-based humanitarian NPO.
+
 ## Overview
 
 This repository contains a Python and GIS portfolio focused on humanitarian assistance, population, climate hazards, displacement and return in Syria. Across six collections and 17 Jupyter Notebooks, it implements basemap design, population-raster analysis, vector operations, raster processing, validation of updatable hazard data, and location matching across heterogeneous datasets.
