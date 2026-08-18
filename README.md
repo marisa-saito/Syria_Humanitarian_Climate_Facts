@@ -135,3 +135,9 @@ Saved execution outputs have been removed from the published Notebooks to keep t
 - Analytical results depend on the source data, processing extent, coordinate reference systems, boundary-cell treatment and matching criteria.
 - Basemaps and datasets remain subject to the terms of use and attribution requirements of their respective providers.
 - This portfolio contains analytical maps and derived data and does not represent the legal or official status of administrative boundaries.
+
+## Contact
+
+Marisa Saito
+Email: marisa.saito.ms@outlook.com
+LinkedIn: https://www.linkedin.com/in/marisasaito/
